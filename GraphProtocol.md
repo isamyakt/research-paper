@@ -80,4 +80,6 @@
     - Chains & Endpoints [docs](https://substreams.streamingfast.io/reference-and-specs/chains-and-endpoints)
     - Substreams [Discord](https://discord.gg/jZwqxJAvRs)
     - Firehose [docs](https://firehose.streamingfast.io/)
+    - Graph Protocol in Depth: [Part 1](https://thegraph.com/blog/the-graph-network-in-depth-part-1/)
+    - Graph Protocol in Depth: [Part 2](https://thegraph.com/blog/the-graph-network-in-depth-part-2/)
 
