@@ -1,6 +1,6 @@
 # Graph Protocol Supports Solana with Substreams
 
-## 1. Substreams
+## Substreams
 
     - By using the new substreams technology, developers can efficiently extract and interpret on-chain data from Solana’s mainnet-beta to feed their applications. 
       Providing support with substreams is the first step in bringing subgraphs to Solana.
