@@ -72,8 +72,8 @@
 * According to graph protocol, full-fledged integration of substreams across chains as well as a subgraph-substreams integration to bring performance improvements to subgraphs is coming soon. When combining the speed and data composability of subgraphs and substreams with unpacked blockchain data from the Firehose, The Graph is unarguably the fastest and most efficient way to get data from blockchains.
 
 - [x] Addional Resources
-    - StreamingFast [link](https://www.streamingfast.io/)
     - Quick start on [Solana](https://github.com/streamingfast/substreams-solana-quickstart)
+    - StreamingFast [link](https://www.streamingfast.io/)
     - Substreams developer [guide](https://substreams.streamingfast.io/developer-guide)
     - Substreams [docs](https://substreams.streamingfast.io/)
     - Substreams [github](https://github.com/streamingfast/substreams-rs)
