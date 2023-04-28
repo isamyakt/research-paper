@@ -73,6 +73,7 @@
 
 - [x] Addional Resources
     - StreamingFast [link](https://www.streamingfast.io/)
+    - Quick start on [Solana](https://github.com/streamingfast/substreams-solana-quickstart)
     - Substreams developer [guide](https://substreams.streamingfast.io/developer-guide)
     - Substreams [docs](https://substreams.streamingfast.io/)
     - Substreams [github](https://github.com/streamingfast/substreams-rs)
